@@ -1,3 +1,10 @@
+<style>
+    a {
+        text-decoration: none; /* Remove underline */
+    }
+</style>
+
+
 <h1 align="center">👏Welcome to Calvin's Github Profile👏</h1>
 <h3 align="center">Civil Engineering Graduate | Transitioning to Computer Science</h3>
 <br>
