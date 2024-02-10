@@ -41,11 +41,11 @@
 <br>
 <div align="center">
   <a href="https://linkedin.com/in/calvin-wong-667b0b20b/">
-      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/">
+      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/"/>
   </a>&nbsp;
   <a href="https://github.com/cjmwong">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture>
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"/></picture>
   </a>
   </div>
