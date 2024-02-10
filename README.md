@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Calvin!</h1>
 <h3 align="center">Civil Engineering Graduate | Transitioning to Computer Science</h3>
 
+<p align="center">
 - 🔭 I’m currently working on **Wasabi (VoIP application)**
   
 - 🌱 I’m currently learning **Full Stack Development using the MERN stack**
@@ -8,6 +9,8 @@
 - 📫 How to reach me **cjmwong@ualberta.ca**
   
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/calvin-wong-667b0b20b/)
+</p>
+
 <p align="center">
 </p>
 
