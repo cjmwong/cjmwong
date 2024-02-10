@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Calvin!</h1>
 <h3 align="center">Civil Engineering Graduate | Transitioning to Computer Science</h3>
 
-<h5 align="center">
+<p align="center">
   
   🔭 I’m currently working on **Wasabi (VoIP application)**
   
@@ -11,7 +11,7 @@
   
 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/calvin-wong-667b0b20b/)
   
-</h5>
+</p>
 
 <p align="center">
 </p>
