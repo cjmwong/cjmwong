@@ -3,9 +3,13 @@
 
 <h5 align="center">
 - 🔭 I’m currently working on **Wasabi (VoIP application)**
+  
 - 🌱 I’m currently learning **Full Stack Development using the MERN stack**
+  
 - 📫 How to reach me **cjmwong@ualberta.ca**
+  
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/calvin-wong-667b0b20b/)
+  
 </h5>
 
 <p align="center">
