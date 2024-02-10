@@ -40,10 +40,10 @@
 <h2 align="center">🌐 Find me on 🌐</h2>
 <br>
 <div align="center">
-  <a href="linkedin.com/in/calvin-wong-667b0b20b/">
+  <a href="linkedin.com/in/calvin-wong-667b0b20b/" target="_blank">
       <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/">
   </a>
-  <a href="https://github.com/cjmwong">
+  <a href="https://github.com/cjmwong" target="_blank">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture>
