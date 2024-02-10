@@ -2,6 +2,7 @@
 <h3 align="center">Civil Engineering Graduate | Transitioning to Computer Science</h3>
 
 <h5 align="center">
+  
   🔭 I’m currently working on **Wasabi (VoIP application)**
   
   🌱 I’m currently learning **Full Stack Development using the MERN stack**
