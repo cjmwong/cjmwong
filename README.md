@@ -1,10 +1,3 @@
-<style>
-    a {
-        text-decoration: none; /* Remove underline */
-    }
-</style>
-
-
 <h1 align="center">👏Welcome to Calvin's Github Profile👏</h1>
 <h3 align="center">Civil Engineering Graduate | Transitioning to Computer Science</h3>
 <br>
@@ -47,10 +40,10 @@
 <h2 align="center">🌐 Find me on 🌐</h2>
 <br>
 <div align="center">
-  <a href="https://linkedin.com/in/calvin-wong-667b0b20b/" target="_blank">
+  <a href="https://linkedin.com/in/calvin-wong-667b0b20b/">
       <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/">
-  </a>
-  <a href="https://github.com/cjmwong" target="_blank">
+  </a>&nbsp;
+  <a href="https://github.com/cjmwong">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture>
