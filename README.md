@@ -7,7 +7,7 @@
 
 <p align="center">- 📫 How to reach me: **cjmwong@ualberta.ca**</p>
 
-<p align="center">- 📄 Know about my experiences: [https://www.linkedin.com/in/calvin-wong-667b0b20b/](https://www.linkedin.com/in/calvin-wong-667b0b20b/)</p>
+<p align="center">- 📄 Know about my experiences: [https://www.linkedin.com/in/calvin-wong-667b0b20b/]</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
