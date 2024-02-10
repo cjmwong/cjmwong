@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Full Stack Development using the MERN stack**
 - 👨‍💻 All of my projects are available at [https://github.com/cjmwong](https://github.com/cjmwong)
 - 📫 How to reach me **cjmwong@ualberta.ca**
-- 📄 Know about my experiences [https://www.linkedin.com/in/calvin-wong-667b0b20b/](https://www.linkedin.com/in/calvin-wong-667b0b20b/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/calvin-wong-667b0b20b/)
 <p align="center">
 </p>
 
