@@ -22,7 +22,6 @@
     <img src="https://skillicons.dev/icons?i=,py,c,cs,java,js,html,css,dart" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs,mongodb,mysql,react,flutter,bootstrap,angular" />
