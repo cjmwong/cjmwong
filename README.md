@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Calvin!</h1>
+<h1 align="center">👏Welcome to Calvin's Github Profile👏</h1>
 <h3 align="center">Civil Engineering Graduate | Transitioning to Computer Science</h3>
 <br>
 
@@ -41,7 +41,7 @@
 <br>
 <div align="center">
   <a href="linkedin.com/in/calvin-wong-667b0b20b/">
-      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/">
   </a>
   <a href="https://github.com/cjmwong">
   <picture>
