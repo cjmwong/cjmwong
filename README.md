@@ -2,6 +2,8 @@
 <h3 align="center">Civil Engineering Graduate | Transitioning to Computer Science</h3>
 <p align="center">
 </p>
+<p align="center">
+</p>
 
 - 🔭 I’m currently working on **Wasabi (VoIP application)**
   
